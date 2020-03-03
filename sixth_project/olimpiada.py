@@ -1,0 +1,23 @@
+class Man:
+    height = 0
+    name = ''
+p = []
+n = int(input())
+for i in range(n):
+    n, h = input().split()
+    h = int(h)
+    man = Man()
+    man.height = h
+    man.name = n
+    p.append(man)
+
+
+def makeTulpe(man):
+    return (man.height, man.name)
+
+
+p.sort(key=makeTulpe, reverse=True)
+
+
+for now in p:
+    print(now.name)

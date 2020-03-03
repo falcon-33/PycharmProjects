@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b8ad613-d37b-4d91-8e5d-ef08abab47b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XXgN5aX5TUpvWJdADM9g99pWMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.max_seq_number">
+    <configuration name="castle_called_if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="second_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/castle_called_if.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max_seq_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="second_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max_seq_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numbers_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="second_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numbers_counter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="similar number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="second_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/similar number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_boxes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="second_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_boxes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.max_seq_number" />
+        <item itemvalue="Python.numbers_counter" />
+        <item itemvalue="Python.two_boxes" />
+        <item itemvalue="Python.castle_called_if" />
+        <item itemvalue="Python.similar number" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b8ad613-d37b-4d91-8e5d-ef08abab47b3" name="Default Changelist" comment="" />
+      <created>1581197809550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581197809550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="325" width="633" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581282814775">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="638" y="325" width="633" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.987@0.27.1920.987" timestamp="1581282814775" />
+    <state x="743" y="278" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581880097823">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="743" y="278" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.987@0.27.1920.987" timestamp="1581880097823" />
+    <state width="937" height="254" key="GridCell.Tab.0.bottom" timestamp="1581619319136">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="254" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1581619319136" />
+    <state width="937" height="254" key="GridCell.Tab.0.center" timestamp="1581619319135">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="254" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1581619319135" />
+    <state width="937" height="254" key="GridCell.Tab.0.left" timestamp="1581619319135">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="254" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1581619319135" />
+    <state width="937" height="254" key="GridCell.Tab.0.right" timestamp="1581619319135">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="254" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1581619319135" />
+    <state width="937" height="314" key="GridCell.Tab.1.bottom" timestamp="1581619260661">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="314" key="GridCell.Tab.1.bottom/0.27.1920.987@0.27.1920.987" timestamp="1581619260661" />
+    <state width="937" height="314" key="GridCell.Tab.1.center" timestamp="1581619260661">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="314" key="GridCell.Tab.1.center/0.27.1920.987@0.27.1920.987" timestamp="1581619260661" />
+    <state width="937" height="314" key="GridCell.Tab.1.left" timestamp="1581619260661">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="314" key="GridCell.Tab.1.left/0.27.1920.987@0.27.1920.987" timestamp="1581619260661" />
+    <state width="937" height="314" key="GridCell.Tab.1.right" timestamp="1581619260661">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state width="937" height="314" key="GridCell.Tab.1.right/0.27.1920.987@0.27.1920.987" timestamp="1581619260661" />
+    <state x="131" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1581880081130">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="131" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.987@0.27.1920.987" timestamp="1581880081130" />
+    <state x="143" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1581618832219">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="143" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.987@0.27.1920.987" timestamp="1581618832219" />
+  </component>
+</project>

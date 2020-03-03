@@ -1,0 +1,17 @@
+startList = list(map(int, input().split()))
+minNumber = min(startList)
+maxNumber = max(startList)
+minIndex = startList.index(min(startList))
+maxIndex = startList.index(max(startList))
+if minIndex > maxIndex:
+    startList.pop(minIndex)
+    startList.insert(minIndex, maxNumber)
+    startList.pop(maxIndex)
+    startList.insert(maxIndex, minNumber)
+    print(*startList)
+else:
+    startList.pop(maxIndex)
+    startList.insert(maxIndex, minNumber)
+    startList.pop(minIndex)
+    startList.insert(minIndex, maxNumber)
+    print(*startList)
