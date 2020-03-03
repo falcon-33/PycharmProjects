@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fdfe095-1944-4965-bcbe-b05120696395" name="Default Changelist" comment="" />
+    <list default="true" id="2fdfe095-1944-4965-bcbe-b05120696395" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/is_number_before.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uniqe_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/seventh_week.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seventh_week.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sixth_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sixth_project/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seventh_week" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +24,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Artem Sokolik" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YcoWQUSjabJ0NNi80g2Qz2Deaq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +41,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.peresechenie">
+  <component name="RunManager" selected="Python.uniqe_words">
+    <configuration name="is_number_before" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seventh_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/is_number_before.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="peresechenie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seventh_week" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -37,27 +79,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/peresechenie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test10_mnoj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="seventh_week" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test10_mnoj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,27 +108,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test8_mnoj_discard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="seventh_week" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test8_mnoj_discard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="uniqe_list_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seventh_week" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,13 +129,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="uniqe_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seventh_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uniqe_words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.uniqe_words" />
+        <item itemvalue="Python.is_number_before" />
         <item itemvalue="Python.peresechenie" />
         <item itemvalue="Python.uniqe_list_elements" />
         <item itemvalue="Python.test11_mnoj" />
-        <item itemvalue="Python.test10_mnoj" />
-        <item itemvalue="Python.test8_mnoj_discard" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +173,38 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task &quot;is number before&quot; completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="task &quot;is number before&quot; completed" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1583255129973">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state x="84" y="64" width="782" height="919" key="CommitChangelistDialog2" timestamp="1583264015727">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="84" y="64" width="782" height="919" key="CommitChangelistDialog2/0.27.1920.987@0.27.1920.987" timestamp="1583264015727" />
+    <state width="937" height="254" key="GridCell.Tab.0.bottom" timestamp="1583265658934">
+      <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583255129973" />
-    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1583255129973">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="937" height="254" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1583265658934" />
+    <state width="937" height="254" key="GridCell.Tab.0.center" timestamp="1583265658933">
+      <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583255129973" />
-    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1583255129973">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="937" height="254" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1583265658933" />
+    <state width="937" height="254" key="GridCell.Tab.0.left" timestamp="1583265658932">
+      <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583255129973" />
-    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1583255129973">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="937" height="254" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1583265658932" />
+    <state width="937" height="254" key="GridCell.Tab.0.right" timestamp="1583265658933">
+      <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583255129973" />
+    <state width="937" height="254" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1583265658933" />
+    <state x="256" y="155" width="1022" height="737" key="SettingsEditor" timestamp="1583262662561">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="256" y="155" width="1022" height="737" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1583262662561" />
   </component>
 </project>
