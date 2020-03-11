@@ -1,13 +1,20 @@
-import sys
-j = 0
-myList = list(sys.stdin.readlines())
-mySet = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', ' '}
-#for i in myList:
-#    if i in mySet:
-#        j = j + 1
-#        continue
-#
-#    else:
-#        del myList[j]
-#        j = j + 1
-print(myList)
+import string
+inFile = open('input.txt', 'r', encoding='utf8')
+myList = list()
+mySet = set()
+while True:
+    line = inFile.readline()
+    if line == "":
+        break
+    else:
+        myList.append(line)
+lenght = len(myList)
+i = 0
+finalList = list()
+while i != lenght:
+    finalList = finalList + list(map(str, myList[i].split()))
+    i += 1
+lenghtFinal = len(finalList)
+mySet = set(finalList)
+lenghtSet = len(mySet)
+print(lenghtSet)
