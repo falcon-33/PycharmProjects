@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fdfe095-1944-4965-bcbe-b05120696395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/seventh_week.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/seventh_week.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uniqe_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/uniqe_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +42,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.test12_dict">
-    <configuration name="guess_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.candidates">
+    <configuration name="candidates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seventh_week" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/guess_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/candidates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="number_of_word" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="often_words2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seventh_week" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_of_word.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/often_words2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test12_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="often_words3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seventh_week" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test12_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/often_words3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,28 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="uniqe_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="seventh_week" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\1\PycharmProjects\seventh_week\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uniqe_words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="uniqe_words1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test16_dict_str" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="seventh_week" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +118,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uniqe_words1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test16_dict_str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="seventh_week" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test12_dict" />
-        <item itemvalue="Python.number_of_word" />
-        <item itemvalue="Python.guess_number" />
-        <item itemvalue="Python.uniqe_words" />
-        <item itemvalue="Python.uniqe_words1" />
+        <item itemvalue="Python.candidates" />
+        <item itemvalue="Python.often_words3" />
+        <item itemvalue="Python.often_words2" />
+        <item itemvalue="Python.test_test" />
+        <item itemvalue="Python.test16_dict_str" />
       </list>
     </recent_temporary>
   </component>
@@ -190,25 +188,29 @@
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="84" y="64" width="782" height="919" key="CommitChangelistDialog2/0.27.1920.987@0.27.1920.987" timestamp="1583264015727" />
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1583913108853">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="1659" height="271" key="GridCell.Tab.0.bottom" timestamp="1584108568093">
+      <screen x="-1680" y="26" width="1680" height="1010" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583913108853" />
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583927197727" />
+    <state width="1659" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.26.1680.1010@-1680.26.1680.1010" timestamp="1584108568093" />
     <state width="937" height="254" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1583265658934" />
-    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1583913108853">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="1659" height="271" key="GridCell.Tab.0.center" timestamp="1584108568093">
+      <screen x="-1680" y="26" width="1680" height="1010" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583913108853" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583927197727" />
+    <state width="1659" height="271" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.26.1680.1010@-1680.26.1680.1010" timestamp="1584108568093" />
     <state width="937" height="254" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1583265658933" />
-    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1583913108853">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="1659" height="271" key="GridCell.Tab.0.left" timestamp="1584108568092">
+      <screen x="-1680" y="26" width="1680" height="1010" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583913108853" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583927197726" />
+    <state width="1659" height="271" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.26.1680.1010@-1680.26.1680.1010" timestamp="1584108568092" />
     <state width="937" height="254" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1583265658932" />
-    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1583913108853">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="1659" height="271" key="GridCell.Tab.0.right" timestamp="1584108568093">
+      <screen x="-1680" y="26" width="1680" height="1010" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583913108853" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583927197727" />
+    <state width="1659" height="271" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.26.1680.1010@-1680.26.1680.1010" timestamp="1584108568093" />
     <state width="937" height="254" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1583265658933" />
     <state x="-793" y="203" key="RollbackChangesDialog" timestamp="1583313594555">
       <screen x="-1280" y="0" width="1280" height="984" />
@@ -219,9 +221,10 @@
     </state>
     <state x="-1109" y="128" width="916" height="735" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583313207091" />
     <state x="256" y="155" width="1022" height="737" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1583262662561" />
-    <state x="-944" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1583855899442">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state x="-1239" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1584014333322">
+      <screen x="-1680" y="26" width="1680" height="1010" />
     </state>
-    <state x="-944" y="316" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583855899442" />
+    <state x="-944" y="316" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.0.1280.984@-1280.0.1280.984" timestamp="1583918273145" />
+    <state x="-1239" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1680.26.1680.1010@-1680.26.1680.1010" timestamp="1584014333322" />
   </component>
 </project>
